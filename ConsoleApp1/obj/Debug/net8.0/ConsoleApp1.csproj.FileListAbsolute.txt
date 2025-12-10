@@ -1,0 +1,14 @@
+/home/lavinia/Documents/code/dotnet-learning/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/home/lavinia/Documents/code/dotnet-learning/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/home/lavinia/Documents/code/dotnet-learning/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/home/lavinia/Documents/code/dotnet-learning/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/home/lavinia/Documents/code/dotnet-learning/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/home/lavinia/Documents/code/dotnet-learning/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/lavinia/Documents/code/dotnet-learning/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/lavinia/Documents/code/dotnet-learning/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/lavinia/Documents/code/dotnet-learning/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/lavinia/Documents/code/dotnet-learning/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/home/lavinia/Documents/code/dotnet-learning/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/lavinia/Documents/code/dotnet-learning/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/home/lavinia/Documents/code/dotnet-learning/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/home/lavinia/Documents/code/dotnet-learning/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
