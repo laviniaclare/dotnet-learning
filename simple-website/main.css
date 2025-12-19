@@ -54,7 +54,7 @@ li {
 
 .pink-theme {
     --bg: #FFC0CB;
-    --fontColor: purple;
-    --btnBg: purple;
+    --fontColor: #674172;
+    --btnBg: #674172;
     --btnFontColor: var(--white);
 }
